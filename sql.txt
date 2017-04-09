@@ -1,0 +1,22 @@
+
+
+<ss>
+<ss>
+xxxx
+xxx
+sxsxsx
+xsxs
+alert(/xss/)</script>
+alert(/xss/)</script>
+<img alert(/xss/) />
+<img alert(/xss/) />
+
+<img onerror:alert(/xss/) />
+
+<SCRIPT>alert(/sss/)</SCRIPT>
+<h1>alert(1)</h1>
+<h1>alert(1)</h1>
+
+<h1>alert(1)</h1>
+
+<h1>alert('1')</h1>
